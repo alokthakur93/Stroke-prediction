@@ -8,7 +8,7 @@ seaborn
 plotly
 sklearn
 imblearn
-pickle
+pickleshare
 os
 joblib
 warnings
