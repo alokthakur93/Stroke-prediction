@@ -48,7 +48,9 @@ Use this dataset to predict whether a patient is likely to get stroke based on t
 
 After doing pre-processing of data, I split the data into train set and test set with test size of 30%.
 
-I tried five different models and evaluated using recall/sensitivity/True positive rate because our model must be able to identify the positive cases more correctly which necessary in Medical Domain.(Probability of correctly identifying positives)
+Tried five different models and evaluated using recall/sensitivity/True positive rate because our model must be able to identify the positive cases more correctly which necessary in Medical Domain.(Probability of correctly identifying positives)
+
+Done Hyperparameter Tuning But this did'nt gave good result, original Xgboost model was good.
 
 ## Model Evaluation:
 The XG Boost model far outperformed the other approaches on the test set
