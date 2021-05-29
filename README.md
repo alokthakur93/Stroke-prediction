@@ -65,7 +65,7 @@ The XG Boost model far outperformed the other approaches on the test set
 
 **XG Boost:** Sensitivity - 0.64
 
-**_Note_**: Here sensitivity of logistic regression is high but its specificity and overall accuracy is lower than that of Xg boost model, which decreases the effectiveness of Logistic regression. Therefore, Xgboost model was chosen.
+**_Note_**: Here sensitivity of logistic regression is high but other factors are taken into consideration like **False Positive Rate** of logistic regression model is higher in comparision to Xgboost model, and F1 score of XGboost model is also high so keeping this in view Xgboost model was choosen over Logistic ones.
 
 ## Inferences made in EDA:
 1. Individuals having high glucose levels and low BMI had stroke
