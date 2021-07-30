@@ -33,7 +33,7 @@ Use this dataset to predict whether a patient is likely to get stroke based on t
 * Created different visualizations like count plot, scatter plot, Box plot to extract insights.
 * Here are some visualizations:
 
-![boxplot](https://github.com/alokthakur93/Stroke-risk-prediction/blob/main/avg_boxplot.PNG)
+![boxplot](https://github.com/alokthakur93/Stroke-risk-prediction/avg_boxplot.PNG)
 
 ![heatmap](https://github.com/alokthakur93/Stroke-risk-prediction/blob/main/heatmap.PNG)
 
